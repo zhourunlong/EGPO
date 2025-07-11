@@ -1,9 +1,9 @@
-# EGPO: Extragradient Policy Optimization
+# EGPO: Extragradient Preference Optimization
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.08942-b31b1b.svg)](https://arxiv.org/abs/2503.08942)
 [![Conference](https://img.shields.io/badge/Conference-COLM%202025-blue.svg)](https://colmweb.org/index.html)
 
-EGPO (Extragradient Policy Optimization) is a training algorithm for Nash learning from human feedback (NLHF). This repository contains the official implementation of EGPO, which has been accepted to Conference on Language Modeling (COLM) 2025.
+EGPO (Extragradient Preference Optimization) is a training algorithm for Nash learning from human feedback (NLHF). This repository contains the official implementation of EGPO, which has been accepted to Conference on Language Modeling (COLM) 2025.
 
 ## Overview
 
